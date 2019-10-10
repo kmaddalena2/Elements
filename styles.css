@@ -1,0 +1,140 @@
+/* Elements */
+
+body {
+	background-color: #102029;
+	color: black;
+	font-family: sans-serif;
+	line-height: 0;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.circle {
+	width: 20em;
+	height: 20em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-2 {
+	width: 7em;
+	height: 8em;
+	background-color: #97c5e0;
+	border-radius: 50%;
+	position: absolute;
+	left: 12%;
+	top: 30%;
+}
+
+.circle-3 {
+	width: 4em;
+	height: 3em;
+	background-color: #97c5e0;
+	border-radius: 50%;
+	position: absolute;
+	left: 15%;
+	top: 15%;
+}
+
+.circle-4 {
+	width: 5em;
+	height: 7em;
+	background-color: #97c5e0;
+	border-radius: 50%;
+	position: absolute;
+	left: 25%;
+	top: 25%;
+}
+
+.circle-5 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 60%;
+	top: 10%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-6 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 80%;
+	top: 60%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-7 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 55%;
+	top: 65%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-8 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 25%;
+	top: 70%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-9 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 45%;
+	top: 50%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-10 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 95%;
+	top: 10%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-11 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 40%;
+	top: 20%;
+	box-shadow: 0px 0px 50px white;
+}
+
+.circle-12 {
+	width: 1em;
+	height: 1em;
+	background-color: #dcecf5;
+	border-radius: 50%;
+	position: absolute;
+	left: 75%;
+	top: 35%;
+	box-shadow: 0px 0px 50px white;
+}
